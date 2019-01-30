@@ -1,6 +1,6 @@
 
 # Kuantum Serisi
-Microsoftun kuantum programlama dili hakkında bilgiler, örnekler.
+Microsoft'un kuantum programlama dili hakkında bilgiler, örnekler.
 # Microsoft Quantum Development Kit
 Türkçe olarak "Microsoft Kuantum Geliştirme Kiti" olarak geçer. içerisinde;
 
