@@ -29,3 +29,6 @@ Q# aslında direkt olarak programlama dili sayılmaz özünde kuantum algoritmal
  7. Q# Application seçin
  8. Çerçeve olarak .NET Framework 4.6.1 seçin
  9. Projeyi Açın
+
+# Q# Dilinde proje yapısı
+Q# dilindeki bir projede kuantum komutları Operations.qs isimli dosyaya kaydedilir bu komutlar yukarıdada dediğimiz gibi simüle edilmesi gerekir bu işlemleri yapan dosya ise Driver.cs dosyasıdır ve bu dosyaya C# komutları kaydedilir.
